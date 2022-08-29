@@ -7,4 +7,5 @@
 
        And for Data Preprocessing:- 
        
-       ![image](https://user-images.githubusercontent.com/64108381/187196968-25cbc17f-010e-4456-9955-f4bf26dc545f.png)
+     
+     ![image]( https://user-images.githubusercontent.com/64108381/187196968-25cbc17f-010e-4456-9955-f4bf26dc545f.png )
